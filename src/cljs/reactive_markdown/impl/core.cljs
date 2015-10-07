@@ -1,6 +1,7 @@
-(ns reactive-markdown.impl.markdown
-  "A small utility file to render markdown. Taken from Devcards, thank
-  you Bruce Hauman."
+(ns reactive-markdown.impl.core
+  "Core implementation of reagent-markdown. A small utility that renders
+  Markdown to react/reagent components. Most of the code has been
+  borrowed from devcards, courtesy of Bruce Hauman."
   (:require [clojure.string :as string]
             [cljsjs.showdown]
             [reagent.core :as reagent]))
