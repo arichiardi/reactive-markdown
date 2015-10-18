@@ -1,4 +1,4 @@
-# reactive-markdown
+# reactive-markdown (WORK IN PROGRESS)
 
 This tiny library renders Markdown strings to React components.
 
