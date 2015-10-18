@@ -10,6 +10,6 @@ pom.xml.asc
 .lein-plugins/
 .lein-failures
 .nrepl-port
-resources/public/reactive-markdown-demo/js/compiled
+resources/**/compiled/
 *log
 .projectile

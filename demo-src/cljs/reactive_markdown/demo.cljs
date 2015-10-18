@@ -10,8 +10,8 @@
 
     Easy, in order to **write** a _blog post_ using:
 
-    1. Reagent
-    2. Markdown"))
+    1. [Reagent](https://github.com/reagent-project/reagent)
+    2. [Markdown](https://daringfireball.net/projects/markdown/)"))
 
 (defn ^:export main []
   (reagent/render [blog-post]
