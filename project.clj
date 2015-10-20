@@ -2,6 +2,7 @@
   :dependencies [[org.clojure/clojure "1.7.0"]
                  [org.clojure/clojurescript "1.7.122"]
                  [reagent "0.5.1"]
+                 [markdown-clj "0.9.75"]
                  [cljsjs/showdown "0.4.0-1"]]
   :plugins [[lein-cljsbuild "1.1.0"]
             [lein-figwheel "0.4.1" :exclusions [cider/cider-nrepl]]  ]
